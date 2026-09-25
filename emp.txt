@@ -1,3 +1,4 @@
 Employee Management System 
-Employee Name : Sam 
-Role : Java Developer Trainee 
+Employee : sam 
+Role : Senior Java Developer 
+
